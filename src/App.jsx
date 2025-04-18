@@ -1,7 +1,7 @@
 import React from 'react'
 import Feed from './Pages/Feed/Feed'
 import ProductConfig from './Pages/Feed/ProductConfig/ProductConfig'
-import { BrowserRouter, Routes, Route } from "react-router"
+import { Routes, Route } from "react-router-dom"
 
 const App = () => {
   return (
