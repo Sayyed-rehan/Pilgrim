@@ -4,9 +4,12 @@ import { Box, Button, Modal, Typography } from "@mui/material"
 import Cards from '../../assets/Components/Cards/Cards'
 import data from "../../db/ClothesData.json"
 import Compare from './Compare/Compare'
+import { useNavigate } from 'react-router'
 
 
 const Feed = () => {
+
+  const nav = useNavigate()
 
   const [compareThisData, setcompareThisData] = useState([])
 
@@ -36,6 +39,7 @@ const Feed = () => {
   return (
     <Box className="feed-container">
     <Box className='feed-heading'>
+    <Button onClick={()=>nav("/task2")} variant='contained'>Go to Product Configure</Button>
       <Typography variant='h3'>Welcome To Aura</Typography>
       <Button variant='contained' onClick={handleOpen}>See Compared Data</Button>
     </Box>
