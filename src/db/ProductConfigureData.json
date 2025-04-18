@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jordan Flight Essentials",
+    "brand": "Nike",
+    "price": 799,
+    "image": "https://img.freepik.com/premium-photo/blank-blue-tshirt-grunge-background_392895-424820.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+    "size": ["S", "M", "L", "XL"],
+    "weight": "200g",
+    "material": "100% Cotton",
+    "color": {
+        "Pink":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/eccdd0f9-97bf-49c2-bd86-6a3f843fefab/M+J+FLT+ESS+OVSZ+SS+CREW.png",
+        "Black":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/88f72a02-0f3a-4b1c-9549-b419b0d52827/M+J+FLT+ESS+OVSZ+SS+CREW.png",
+        "White":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9394b0b7-09ad-46e7-921c-69f21588377c/M+J+FLT+ESS+OVSZ+SS+CREW.png",
+        "Green":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fff2dfad-d4bc-407c-8f1c-91f2db6990f7/M+J+FLT+ESS+OVSZ+SS+CREW.png"
+    },
+    "availability": "In Stock",
+    "discount": "10%",
+    "rating": 4.5
+  }
+]

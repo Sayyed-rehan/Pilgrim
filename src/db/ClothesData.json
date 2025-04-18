@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Cotton T-Shirt",
+      "brand": "UrbanWear",
+      "price": 799,
+      "image": "https://img.freepik.com/premium-photo/blank-blue-tshirt-grunge-background_392895-424820.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["S", "M", "L", "XL"],
+      "weight": "200g",
+      "material": "100% Cotton",
+      "color": "White",
+      "availability": "In Stock",
+      "discount": "10%",
+      "rating": 4.5
+    },
+    {
+      "name": "Denim Jacket",
+      "brand": "DenimVibes",
+      "price": 2499,
+      "image": "https://img.freepik.com/premium-photo/denim-jacket_488220-8483.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["M", "L", "XL"],
+      "weight": "800g",
+      "material": "Denim",
+      "color": "Blue",
+      "availability": "Limited Stock",
+      "discount": "15%",
+      "rating": 4.7
+    },
+    {
+      "name": "Wool Sweater",
+      "brand": "CozyWear",
+      "price": 1999,
+      "image": "https://img.freepik.com/premium-photo/hooded-sweater-isolated_719385-571.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["S", "M", "L"],
+      "weight": "600g",
+      "material": "Wool",
+      "color": "Grey",
+      "availability": "Out of Stock",
+      "discount": "5%",
+      "rating": 4.3
+    },
+    {
+      "name": "Leather Boots",
+      "brand": "FootFlex",
+      "price": 4599,
+      "image": "https://img.freepik.com/free-photo/pair-brown-leather-boots_1150-6005.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["7", "8", "9", "10"],
+      "weight": "1.2kg",
+      "material": "Genuine Leather",
+      "color": "Brown",
+      "availability": "In Stock",
+      "discount": "20%",
+      "rating": 4.8
+    },
+    {
+      "name": "Summer Dress",
+      "brand": "StyleHub",
+      "price": 1599,
+      "image": "https://img.freepik.com/free-photo/fashion-woman-with-clothes_1203-8302.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["S", "M", "L"],
+      "weight": "400g",
+      "material": "Cotton Blend",
+      "color": "Red",
+      "availability": "In Stock",
+      "discount": "12%",
+      "rating": 4.6
+    },
+    {
+      "name": "Formal Shirt",
+      "brand": "EliteWear",
+      "price": 1299,
+      "image": "https://img.freepik.com/free-photo/men-s-formal-wear-collection_53876-16559.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["M", "L", "XL"],
+      "weight": "300g",
+      "material": "Polyester-Cotton",
+      "color": "Blue",
+      "availability": "In Stock",
+      "discount": "8%",
+      "rating": 4.4
+    },
+    {
+      "name": "Joggers",
+      "brand": "ActiveFit",
+      "price": 1799,
+      "image": "https://img.freepik.com/premium-psd/joggers-mockup_1195844-2350.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["S", "M", "L", "XL"],
+      "weight": "500g",
+      "material": "Polyester",
+      "color": "Black",
+      "availability": "Limited Stock",
+      "discount": "18%",
+      "rating": 4.7
+    },
+    {
+      "name": "Silk Scarf",
+      "brand": "LuxuryWrap",
+      "price": 999,
+      "image": "https://img.freepik.com/free-photo/young-woman-wearing-handkerchief-as-neck-accessory_23-2149091394.jpg?ga=GA1.1.1315428490.1744818360&semt=ais_hybrid&w=740",
+      "size": ["One Size"],
+      "weight": "150g",
+      "material": "Silk",
+      "color": "Gold",
+      "availability": "In Stock",
+      "discount": "25%",
+      "rating": 4.9
+    }
+  ]
+  

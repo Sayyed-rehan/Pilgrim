@@ -1,0 +1,113 @@
+.ProductConfig-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+}
+
+.ProductConfig-container .MuiTypography-h4 {
+  @media screen and (max-width: 700px) and (min-width: 500px) {
+    font-size: xx-large;
+  }
+
+  @media screen and (max-width: 500px) and (min-width: 400px) {
+    font-size: x-large;
+  }
+
+  @media screen and (max-width: 400px) and (min-width: 200px) {
+    font-size: large;
+  }
+}
+
+.grid-1 {
+  /* background-color: yellow; */
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5vh;
+  padding: 20px;
+  color: gray;
+  /* font-weight: bolder;  */
+}
+
+.grid-1 .MuiTypography-root {
+  font-weight: bold;
+}
+
+.grid-1 .MuiTypography-h4 {
+  @media screen and (max-width: 700px) and (min-width: 500px) {
+    font-size: x-large;
+  }
+
+  @media screen and (max-width: 500px) and (min-width: 300px) {
+    font-size: large;
+  }
+
+  @media screen and (max-width: 300px) and (min-width: 100px) {
+    font-size: medium;
+  }
+}
+
+.grid-1 .MuiTypography-h5 {
+  @media screen and (max-width: 700px) {
+    font-size: large;
+  }
+}
+
+.grid-1 .MuiTypography-h6 {
+  @media screen and (max-width: 700px) {
+    font-size: large;
+  }
+}
+
+.qty-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.qty-section .MuiFab-root {
+  @media screen and (max-width: 700px) {
+    height: 35px;
+    width: 35px;
+  }
+}
+
+.grid-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  @media screen and (max-width: 700px) {
+    gap:2vh;
+  }
+}
+
+.grid-2 .MuiTypography-h5 {
+  @media screen and (max-width: 700px) {
+    font-size: large;
+  }
+}
+
+.grid-2 .MuiButton-root {
+    @media screen and (max-width: 700px) {
+       font-size:'small'
+    }
+}
+
+.product-config-img {
+  border-radius: 2vw;
+  height: 450px;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.product-config-img:hover {
+   background-size: contain;
+   height: 80vh;
+    cursor: pointer;
+}
